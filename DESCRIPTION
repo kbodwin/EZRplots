@@ -28,7 +28,9 @@ RoxygenNote: 7.1.0
 Suggests: 
     testthat
 Imports: 
-    magrittr
+    magrittr,
+    plotly,
+    leaflet
 URL: https://github.com/shanealman/EZRplots
 BugReports: https://github.com/shanealman/EZRplots/issues
 Depends: 
